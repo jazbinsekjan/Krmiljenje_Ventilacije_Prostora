@@ -18,6 +18,7 @@ KOSOVNICA:
 - Konektorji
 
 PRIREDBENI SEZNAM:
+
 ![image](https://github.com/jazbinsekjan/Krmiljenje_Ventilacije_Prostora/assets/123098255/d2d8311f-e425-4454-ad9c-13497cd5c050)
 
 
