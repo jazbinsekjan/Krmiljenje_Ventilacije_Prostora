@@ -41,6 +41,9 @@ VIDEO DELOVANJA:
 
 https://github.com/jazbinsekjan/Krmiljenje_Ventilacije_Prostora/assets/123098255/ad7c9203-6a53-48fa-ac51-f56b679bd347
 
+KOMENTARJI IN MOŽNE IZBOLJŠAVE:
+Pri projektu nisva imela večjih težav, razen pri nastavljanju moči motorja preko termistorja. Najprej sva imela manjše težave s pravilno vezavo termistorja, nato pa sva morala program sprogramirati tako, da je opazna očitna sprememba pri delovanju motorja. Če bi se projekta lotila od začetka, bi stikala vezala drugače, saj mogoče ni najbolje, da modra LED dioda izgubi moč pri vrtenju potenciometra. Dodala bi lahko še ventilatorček, da bi resnično ustvarila in krmilila ventilacijo prostora.
+
 
 
 
