@@ -8,7 +8,7 @@ Ob vklopu stikala 1 naj se ventilacija (motorček preko tranzistorja) vključi i
 
 KOSOVNICA:
 - Arduino Uno 1x
-- LED Dioda 2x (1x modra, 1x rdeca)
+- LED Dioda 2x (1x modra, 1x rdeča)
 - Stikalo 2x
 - Upor 3x
 - Motor 1x
