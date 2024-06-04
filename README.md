@@ -33,6 +33,9 @@ SHEMA VEZAVE:
 
 ![image](https://github.com/jazbinsekjan/Krmiljenje_Ventilacije_Prostora/assets/123098255/e968ec3d-d792-4caa-b09a-53fc4850fd6c)
 
+VIDEO DELOVANJA:
+
+https://github.com/jazbinsekjan/Krmiljenje_Ventilacije_Prostora/assets/123098255/ad7c9203-6a53-48fa-ac51-f56b679bd347
 
 
 
