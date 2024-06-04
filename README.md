@@ -23,7 +23,7 @@ PRIREDBENI SEZNAM:
 
 ![image](https://github.com/jazbinsekjan/Krmiljenje_Ventilacije_Prostora/assets/123098255/d2d8311f-e425-4454-ad9c-13497cd5c050)
 
-SLIKE VEZAVE:
+SLIKI VEZAVE:
 
 ![IMG_2535](https://github.com/jazbinsekjan/Krmiljenje_Ventilacije_Prostora/assets/123098255/54fb3c31-7787-4fc8-afb1-8ce5cd48821e)
 
@@ -32,6 +32,10 @@ SLIKE VEZAVE:
 SHEMA VEZAVE:
 
 ![image](https://github.com/jazbinsekjan/Krmiljenje_Ventilacije_Prostora/assets/123098255/e968ec3d-d792-4caa-b09a-53fc4850fd6c)
+
+KODA:
+
+![image](https://github.com/jazbinsekjan/Krmiljenje_Ventilacije_Prostora/assets/123098255/40982e63-6491-4204-8358-d5cd29e7080f)
 
 VIDEO DELOVANJA:
 
