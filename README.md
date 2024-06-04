@@ -28,7 +28,8 @@ PRIREDBENI SEZNAM:
 
 ![IMG_2533](https://github.com/jazbinsekjan/Krmiljenje_Ventilacije_Prostora/assets/123098255/c34289e5-bae4-42d1-bde5-3ff534a162cd)
 
-![image](https://github.com/jazbinsekjan/Krmiljenje_Ventilacije_Prostora/assets/123098255/e60ef1b4-fbaf-4664-9eb0-a39e1b85798a)
+![image](https://github.com/jazbinsekjan/Krmiljenje_Ventilacije_Prostora/assets/123098255/e968ec3d-d792-4caa-b09a-53fc4850fd6c)
+
 
 
 
